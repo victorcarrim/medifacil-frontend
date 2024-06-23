@@ -91,8 +91,8 @@ export const RenderModal = ({ handleClose, open, setRemedio }) => {
     const getImage = async () => {
         const response = await axios.get('https://www.googleapis.com/customsearch/v1', {
             params: {
-                key: 'AIzaSyBl_t_8322eAhMntYmlQvpYFElrL9lbvxA',
-                cx: '31135ccc7bb374f3a',
+                key: import.meta.env.VITE_GOOGLE_API_KEY,
+                cx: import.meta.env.VITE_ID_SEARCH,
                 q: `${value.nome_produto} remédo`,
                 sort: 'date:r:relevance',
                 searchType: 'image',
