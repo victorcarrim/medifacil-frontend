@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,400..700;1,400..700&display=swap');
+
+:root {
+    --black: #000;
+    --white: #fff;
+    --dark-blue: #74bde8;
+    --yellow: #F4F66E;
+    --red: #EF6C6C;
+    --blueish-gray: #E2EEF4;
+    --light-blue: #74E2E8;
+    --turquoise: #83EACC;
+    
+    --regular: 400;
+    --medium: 500;
+    --semi-bold: 600;
+    --bold: 700;
+
+    --border-radius: 0.5rem;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    font-family: 'Roboto Mono', sans-serif;
+}
+
+input, button {
+    all: unset;
+}
+
+#medicine-information-photo {
+    height:  150px;
+}
+
+#box-images-google-photos {
+    &:hover {
+        cursor: pointer;
+        border-radius: var(--border-radius);
+        border: var(--red) 1px solid;
+    }
+}
