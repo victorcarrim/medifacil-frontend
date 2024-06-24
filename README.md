@@ -10,13 +10,32 @@
 
 > O MediFácil é um sistema idealizado para facilitar a comunicação e gestão de medicamentos entre médicos e pacientes, oferecendo uma interface visual e acessível.
 
+### Ajustes e melhorias
+
+O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+
+- [] Desenvolvimento da funcionalidade de prontuarios de um paciente.
+- [] Desevolvimento da integração com IA para auxilio ao profissional de saúde sobre o histórico médico de um paciente.
+- [] Desenvolvimento da funcionalidade de familiares poderem acompanhar o tratamento de um paciente.
+
+## 🗃 Repositorios Complementares
+
+[MediFácil Backend](https://github.com/victorcarrim/medifacil-backend) - Repositório com o backend da aplicação MediFácil
+
+[MediFácil Mobile](https://github.com/victorcarrim/medifacil-mobile) - Repositório com o mobile da aplicação MediFácil
+
+Frontend disponível para acesso em: https://medifacil-frontend-two.vercel.app/
+
+Backend disponível para consumo em: https://medifacil-backend.vercel.app/
+
 
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 - Você instalou a versão mais recente do node e do npm.
-- Você tenha git e vite instalado na sua máquina. 
+- Você tenha git e vite instalado na sua máquina.
+
 
 ## 🚀 Instalando MediFácil-FrontEnd
 
@@ -41,6 +60,12 @@ Para usar o Medifácil, siga estas etapas:
 # para rodar a aplicação
 vite dev
 ```
+
+Caso opte por usar nossa aplicação na nuvem possuimos um usuário paciente ja cadastrado (os de cima tambem estão presentes).
+
+Acesso a aplicação web online: https://medifacil-frontend-two.vercel.app/
+
+Acesso ao backend online: https://medifacil-backend.vercel.app/
 
 ## 📫 Contribuindo para MediFácil
 
