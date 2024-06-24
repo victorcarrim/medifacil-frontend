@@ -61,6 +61,18 @@ Para usar o Medifácil, siga estas etapas:
 vite dev
 ```
 
+Usuários criados ao iniciar a aplicação
+
+```
+Usuário admin:
+    - Login: 00000000000
+    - Senha: 12345
+    
+Usuário profissional de saude:
+    - Login: 11111111111
+    - Senha: 12345
+```
+
 Caso opte por usar nossa aplicação na nuvem possuimos um usuário paciente ja cadastrado (os de cima tambem estão presentes).
 
 Acesso a aplicação web online: https://medifacil-frontend-two.vercel.app/
