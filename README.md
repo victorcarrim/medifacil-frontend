@@ -121,6 +121,13 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         </sub>
       </a>
     </td>
-
+     <td align="center">
+      <a href="#" title="">
+        <img src="https://media-gru2-2.cdn.whatsapp.net/v/t61.24694-24/439076101_462422389479867_2862236630768755022_n.jpg?ccb=11-4&oh=01_Q5AaIFPWiIylvkt3PUfUs-xRG-SHcuPKj0NX8SR_EXP10BjE&oe=6685A66D&_nc_sid=e6ed6c&_nc_cat=100" width="100px;" alt="Foto da Larissa Gregorio Kaluck"/><br>
+        <sub>
+          <b>Larissa Gregório Klauck</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
